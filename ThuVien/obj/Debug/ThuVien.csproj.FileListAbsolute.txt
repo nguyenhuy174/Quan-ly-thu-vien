@@ -1,0 +1,169 @@
+D:\SQl\ThuVien\ThuVien\bin\Debug\ThuVien.exe.config
+D:\SQl\ThuVien\ThuVien\bin\Debug\ThuVien.exe
+D:\SQl\ThuVien\ThuVien\bin\Debug\ThuVien.pdb
+D:\SQl\ThuVien\ThuVien\bin\Debug\Bunifu_UI_v1.52.dll
+D:\SQl\ThuVien\ThuVien\obj\Debug\ThuVien.Form1.resources
+D:\SQl\ThuVien\ThuVien\obj\Debug\ThuVien.Properties.Resources.resources
+D:\SQl\ThuVien\ThuVien\obj\Debug\ThuVien.csproj.GenerateResource.cache
+D:\SQl\ThuVien\ThuVien\obj\Debug\ThuVien.csproj.CopyComplete
+D:\SQl\ThuVien\ThuVien\obj\Debug\ThuVien.exe
+D:\SQl\ThuVien\ThuVien\obj\Debug\ThuVien.pdb
+D:\SQl\ThuVien\ThuVien\obj\Debug\ThuVien.FormQLPhieuMuon.resources
+D:\SQl\ThuVien\ThuVien\obj\Debug\ThuVien.Manage.resources
+D:\SQl\ThuVien\ThuVien\obj\Debug\ThuVien.DocGia.resources
+D:\SQl\ThuVien\ThuVien\obj\Debug\ThuVien.FormPhieuTra.resources
+D:\SQl\ThuVien\ThuVien\obj\Debug\ThuVien.FormSach.resources
+D:\SQl\ThuVien\ThuVien\obj\Debug\ThuVien.FormTaiKhoan.resources
+D:\SQl\ThuVien\ThuVien\obj\Debug\ThuVien.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\Máy tính\GitHub\NguyenVinhHien\ThuVien\obj\Debug\ThuVien.DocGia.resources
+C:\Users\Admin\OneDrive\Máy tính\GitHub\NguyenVinhHien\ThuVien\obj\Debug\ThuVien.Form1.resources
+C:\Users\Admin\OneDrive\Máy tính\GitHub\NguyenVinhHien\ThuVien\obj\Debug\ThuVien.FormPhieuTra.resources
+C:\Users\Admin\OneDrive\Máy tính\GitHub\NguyenVinhHien\ThuVien\obj\Debug\ThuVien.FormQLPhieuMuon.resources
+C:\Users\Admin\OneDrive\Máy tính\GitHub\NguyenVinhHien\ThuVien\obj\Debug\ThuVien.FormSach.resources
+C:\Users\Admin\OneDrive\Máy tính\GitHub\NguyenVinhHien\ThuVien\obj\Debug\ThuVien.FormTaiKhoan.resources
+C:\Users\Admin\OneDrive\Máy tính\GitHub\NguyenVinhHien\ThuVien\obj\Debug\ThuVien.Manage.resources
+C:\Users\Admin\OneDrive\Máy tính\GitHub\NguyenVinhHien\ThuVien\obj\Debug\ThuVien.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Máy tính\GitHub\NguyenVinhHien\ThuVien\obj\Debug\ThuVien.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Máy tính\GitHub\NguyenVinhHien\ThuVien\obj\Debug\ThuVien.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\GitHub\NguyenVinhHien\ThuVien\obj\Debug\ThuVien.exe
+C:\Users\Admin\OneDrive\Máy tính\GitHub\NguyenVinhHien\ThuVien\obj\Debug\ThuVien.pdb
+C:\Users\Admin\OneDrive\Máy tính\GitHub\NguyenVinhHien\ThuVien\bin\Debug\ThuVien.exe.config
+C:\Users\Admin\OneDrive\Máy tính\GitHub\NguyenVinhHien\ThuVien\bin\Debug\ThuVien.exe
+C:\Users\Admin\OneDrive\Máy tính\GitHub\NguyenVinhHien\ThuVien\bin\Debug\ThuVien.pdb
+C:\Users\Admin\OneDrive\Máy tính\GitHub\NguyenVinhHien\ThuVien\obj\Debug\ThuVien.csproj.CopyComplete
+C:\Users\Admin\OneDrive\Máy tính\GitHub\NguyenVinhHien\ThuVien\obj\Debug\ThuVien.csprojAssemblyReference.cache
+C:\Users\quock\Documents\Year 4 - semeter 1\Thực Tập Nhóm\Thực Tập Nhóm\NguyenVinhHien\ThuVien\bin\Debug\ThuVien.exe.config
+C:\Users\quock\Documents\Year 4 - semeter 1\Thực Tập Nhóm\Thực Tập Nhóm\NguyenVinhHien\ThuVien\bin\Debug\ThuVien.exe
+C:\Users\quock\Documents\Year 4 - semeter 1\Thực Tập Nhóm\Thực Tập Nhóm\NguyenVinhHien\ThuVien\bin\Debug\ThuVien.pdb
+C:\Users\quock\Documents\Year 4 - semeter 1\Thực Tập Nhóm\Thực Tập Nhóm\NguyenVinhHien\ThuVien\obj\Debug\ThuVien.csprojAssemblyReference.cache
+C:\Users\quock\Documents\Year 4 - semeter 1\Thực Tập Nhóm\Thực Tập Nhóm\NguyenVinhHien\ThuVien\obj\Debug\ThuVien.DocGia.resources
+C:\Users\quock\Documents\Year 4 - semeter 1\Thực Tập Nhóm\Thực Tập Nhóm\NguyenVinhHien\ThuVien\obj\Debug\ThuVien.Form1.resources
+C:\Users\quock\Documents\Year 4 - semeter 1\Thực Tập Nhóm\Thực Tập Nhóm\NguyenVinhHien\ThuVien\obj\Debug\ThuVien.FormPhieuTra.resources
+C:\Users\quock\Documents\Year 4 - semeter 1\Thực Tập Nhóm\Thực Tập Nhóm\NguyenVinhHien\ThuVien\obj\Debug\ThuVien.FormQLPhieuMuon.resources
+C:\Users\quock\Documents\Year 4 - semeter 1\Thực Tập Nhóm\Thực Tập Nhóm\NguyenVinhHien\ThuVien\obj\Debug\ThuVien.FormSach.resources
+C:\Users\quock\Documents\Year 4 - semeter 1\Thực Tập Nhóm\Thực Tập Nhóm\NguyenVinhHien\ThuVien\obj\Debug\ThuVien.FormTaiKhoan.resources
+C:\Users\quock\Documents\Year 4 - semeter 1\Thực Tập Nhóm\Thực Tập Nhóm\NguyenVinhHien\ThuVien\obj\Debug\ThuVien.Manage.resources
+C:\Users\quock\Documents\Year 4 - semeter 1\Thực Tập Nhóm\Thực Tập Nhóm\NguyenVinhHien\ThuVien\obj\Debug\ThuVien.Properties.Resources.resources
+C:\Users\quock\Documents\Year 4 - semeter 1\Thực Tập Nhóm\Thực Tập Nhóm\NguyenVinhHien\ThuVien\obj\Debug\ThuVien.csproj.GenerateResource.cache
+C:\Users\quock\Documents\Year 4 - semeter 1\Thực Tập Nhóm\Thực Tập Nhóm\NguyenVinhHien\ThuVien\obj\Debug\ThuVien.csproj.CoreCompileInputs.cache
+C:\Users\quock\Documents\Year 4 - semeter 1\Thực Tập Nhóm\Thực Tập Nhóm\NguyenVinhHien\ThuVien\obj\Debug\ThuVien.csproj.CopyComplete
+C:\Users\quock\Documents\Year 4 - semeter 1\Thực Tập Nhóm\Thực Tập Nhóm\NguyenVinhHien\ThuVien\obj\Debug\ThuVien.exe
+C:\Users\quock\Documents\Year 4 - semeter 1\Thực Tập Nhóm\Thực Tập Nhóm\NguyenVinhHien\ThuVien\obj\Debug\ThuVien.pdb
+C:\Users\PC\Documents\GitHub\ThucTapNhom\NguyenVinhHien\ThuVien\bin\Debug\ThuVien.exe.config
+C:\Users\PC\Documents\GitHub\ThucTapNhom\NguyenVinhHien\ThuVien\bin\Debug\ThuVien.exe
+C:\Users\PC\Documents\GitHub\ThucTapNhom\NguyenVinhHien\ThuVien\bin\Debug\ThuVien.pdb
+C:\Users\PC\Documents\GitHub\ThucTapNhom\NguyenVinhHien\ThuVien\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\PC\Documents\GitHub\ThucTapNhom\NguyenVinhHien\ThuVien\obj\Debug\ThuVien.DocGia.resources
+C:\Users\PC\Documents\GitHub\ThucTapNhom\NguyenVinhHien\ThuVien\obj\Debug\ThuVien.Form1.resources
+C:\Users\PC\Documents\GitHub\ThucTapNhom\NguyenVinhHien\ThuVien\obj\Debug\ThuVien.FormPhieuTra.resources
+C:\Users\PC\Documents\GitHub\ThucTapNhom\NguyenVinhHien\ThuVien\obj\Debug\ThuVien.FormQLPhieuMuon.resources
+C:\Users\PC\Documents\GitHub\ThucTapNhom\NguyenVinhHien\ThuVien\obj\Debug\ThuVien.FormSach.resources
+C:\Users\PC\Documents\GitHub\ThucTapNhom\NguyenVinhHien\ThuVien\obj\Debug\ThuVien.FormTaiKhoan.resources
+C:\Users\PC\Documents\GitHub\ThucTapNhom\NguyenVinhHien\ThuVien\obj\Debug\ThuVien.Manage.resources
+C:\Users\PC\Documents\GitHub\ThucTapNhom\NguyenVinhHien\ThuVien\obj\Debug\ThuVien.Properties.Resources.resources
+C:\Users\PC\Documents\GitHub\ThucTapNhom\NguyenVinhHien\ThuVien\obj\Debug\ThuVien.csproj.GenerateResource.cache
+C:\Users\PC\Documents\GitHub\ThucTapNhom\NguyenVinhHien\ThuVien\obj\Debug\ThuVien.csproj.CopyComplete
+C:\Users\PC\Documents\GitHub\ThucTapNhom\NguyenVinhHien\ThuVien\obj\Debug\ThuVien.exe
+C:\Users\PC\Documents\GitHub\ThucTapNhom\NguyenVinhHien\ThuVien\obj\Debug\ThuVien.pdb
+C:\Users\PC\Documents\GitHub\ThucTapNhom\NguyenVinhHien\ThuVien\obj\Debug\ThuVien.FormDangki.resources
+C:\Users\PC\Documents\GitHub\ThucTapNhom\NguyenVinhHien\ThuVien\obj\Debug\ThuVien.Dangmuon.resources
+C:\Users\PC\Documents\GitHub\ThucTapNhom\NguyenVinhHien\ThuVien\obj\Debug\ThuVien.Datra.resources
+C:\Users\PC\Documents\GitHub\ThucTapNhom\Vinhhien\ThuVien\bin\Debug\ThuVien.exe.config
+C:\Users\PC\Documents\GitHub\ThucTapNhom\Vinhhien\ThuVien\bin\Debug\ThuVien.exe
+C:\Users\PC\Documents\GitHub\ThucTapNhom\Vinhhien\ThuVien\bin\Debug\ThuVien.pdb
+C:\Users\PC\Documents\GitHub\ThucTapNhom\Vinhhien\ThuVien\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\PC\Documents\GitHub\ThucTapNhom\Vinhhien\ThuVien\obj\Debug\ThuVien.Dangmuon.resources
+C:\Users\PC\Documents\GitHub\ThucTapNhom\Vinhhien\ThuVien\obj\Debug\ThuVien.Datra.resources
+C:\Users\PC\Documents\GitHub\ThucTapNhom\Vinhhien\ThuVien\obj\Debug\ThuVien.DocGia.resources
+C:\Users\PC\Documents\GitHub\ThucTapNhom\Vinhhien\ThuVien\obj\Debug\ThuVien.Form1.resources
+C:\Users\PC\Documents\GitHub\ThucTapNhom\Vinhhien\ThuVien\obj\Debug\ThuVien.FormDangki.resources
+C:\Users\PC\Documents\GitHub\ThucTapNhom\Vinhhien\ThuVien\obj\Debug\ThuVien.FormPhieuTra.resources
+C:\Users\PC\Documents\GitHub\ThucTapNhom\Vinhhien\ThuVien\obj\Debug\ThuVien.FormQLPhieuMuon.resources
+C:\Users\PC\Documents\GitHub\ThucTapNhom\Vinhhien\ThuVien\obj\Debug\ThuVien.FormSach.resources
+C:\Users\PC\Documents\GitHub\ThucTapNhom\Vinhhien\ThuVien\obj\Debug\ThuVien.FormTaiKhoan.resources
+C:\Users\PC\Documents\GitHub\ThucTapNhom\Vinhhien\ThuVien\obj\Debug\ThuVien.Manage.resources
+C:\Users\PC\Documents\GitHub\ThucTapNhom\Vinhhien\ThuVien\obj\Debug\ThuVien.Properties.Resources.resources
+C:\Users\PC\Documents\GitHub\ThucTapNhom\Vinhhien\ThuVien\obj\Debug\ThuVien.csproj.GenerateResource.cache
+C:\Users\PC\Documents\GitHub\ThucTapNhom\Vinhhien\ThuVien\obj\Debug\ThuVien.csproj.CopyComplete
+C:\Users\PC\Documents\GitHub\ThucTapNhom\Vinhhien\ThuVien\obj\Debug\ThuVien.exe
+C:\Users\PC\Documents\GitHub\ThucTapNhom\Vinhhien\ThuVien\obj\Debug\ThuVien.pdb
+C:\Users\Lenovo\Downloads\XDHTTTQL final\nguyenvinhhien-master\ThuVien\bin\Debug\ThuVien.exe.config
+C:\Users\Lenovo\Downloads\XDHTTTQL final\nguyenvinhhien-master\ThuVien\bin\Debug\ThuVien.exe
+C:\Users\Lenovo\Downloads\XDHTTTQL final\nguyenvinhhien-master\ThuVien\bin\Debug\ThuVien.pdb
+C:\Users\Lenovo\Downloads\XDHTTTQL final\nguyenvinhhien-master\ThuVien\obj\Debug\ThuVien.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\XDHTTTQL final\nguyenvinhhien-master\ThuVien\obj\Debug\ThuVien.Dangmuon.resources
+C:\Users\Lenovo\Downloads\XDHTTTQL final\nguyenvinhhien-master\ThuVien\obj\Debug\ThuVien.Datra.resources
+C:\Users\Lenovo\Downloads\XDHTTTQL final\nguyenvinhhien-master\ThuVien\obj\Debug\ThuVien.DocGia.resources
+C:\Users\Lenovo\Downloads\XDHTTTQL final\nguyenvinhhien-master\ThuVien\obj\Debug\ThuVien.FormPhieuTra.resources
+C:\Users\Lenovo\Downloads\XDHTTTQL final\nguyenvinhhien-master\ThuVien\obj\Debug\ThuVien.FormQLPhieuMuon.resources
+C:\Users\Lenovo\Downloads\XDHTTTQL final\nguyenvinhhien-master\ThuVien\obj\Debug\ThuVien.FormSach.resources
+C:\Users\Lenovo\Downloads\XDHTTTQL final\nguyenvinhhien-master\ThuVien\obj\Debug\ThuVien.FormTaiKhoan.resources
+C:\Users\Lenovo\Downloads\XDHTTTQL final\nguyenvinhhien-master\ThuVien\obj\Debug\ThuVien.Manage.resources
+C:\Users\Lenovo\Downloads\XDHTTTQL final\nguyenvinhhien-master\ThuVien\obj\Debug\ThuVien.Properties.Resources.resources
+C:\Users\Lenovo\Downloads\XDHTTTQL final\nguyenvinhhien-master\ThuVien\obj\Debug\ThuVien.csproj.GenerateResource.cache
+C:\Users\Lenovo\Downloads\XDHTTTQL final\nguyenvinhhien-master\ThuVien\obj\Debug\ThuVien.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\XDHTTTQL final\nguyenvinhhien-master\ThuVien\obj\Debug\ThuVien.csproj.CopyComplete
+C:\Users\Lenovo\Downloads\XDHTTTQL final\nguyenvinhhien-master\ThuVien\obj\Debug\ThuVien.exe
+C:\Users\Lenovo\Downloads\XDHTTTQL final\nguyenvinhhien-master\ThuVien\obj\Debug\ThuVien.pdb
+C:\Users\Lenovo\Downloads\XDHTTTQL final\nguyenvinhhien-master\ThuVien\obj\Debug\ThuVien.FormDangNhap.resources
+C:\Users\Lenovo\Downloads\XDHTTTQL final\nguyenvinhhien-master\ThuVien\obj\Debug\ThuVien.FormDangKy.resources
+C:\Users\Lenovo\Downloads\XDHTTTQL final\QuanLyThuVien\ThuVien\bin\Debug\ThuVien.exe.config
+C:\Users\Lenovo\Downloads\XDHTTTQL final\QuanLyThuVien\ThuVien\bin\Debug\ThuVien.exe
+C:\Users\Lenovo\Downloads\XDHTTTQL final\QuanLyThuVien\ThuVien\bin\Debug\ThuVien.pdb
+C:\Users\Lenovo\Downloads\XDHTTTQL final\QuanLyThuVien\ThuVien\obj\Debug\ThuVien.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\XDHTTTQL final\QuanLyThuVien\ThuVien\obj\Debug\ThuVien.Dangmuon.resources
+C:\Users\Lenovo\Downloads\XDHTTTQL final\QuanLyThuVien\ThuVien\obj\Debug\ThuVien.Datra.resources
+C:\Users\Lenovo\Downloads\XDHTTTQL final\QuanLyThuVien\ThuVien\obj\Debug\ThuVien.DocGia.resources
+C:\Users\Lenovo\Downloads\XDHTTTQL final\QuanLyThuVien\ThuVien\obj\Debug\ThuVien.FormDangNhap.resources
+C:\Users\Lenovo\Downloads\XDHTTTQL final\QuanLyThuVien\ThuVien\obj\Debug\ThuVien.FormDangKy.resources
+C:\Users\Lenovo\Downloads\XDHTTTQL final\QuanLyThuVien\ThuVien\obj\Debug\ThuVien.FormPhieuTra.resources
+C:\Users\Lenovo\Downloads\XDHTTTQL final\QuanLyThuVien\ThuVien\obj\Debug\ThuVien.FormQLPhieuMuon.resources
+C:\Users\Lenovo\Downloads\XDHTTTQL final\QuanLyThuVien\ThuVien\obj\Debug\ThuVien.FormSach.resources
+C:\Users\Lenovo\Downloads\XDHTTTQL final\QuanLyThuVien\ThuVien\obj\Debug\ThuVien.FormTaiKhoan.resources
+C:\Users\Lenovo\Downloads\XDHTTTQL final\QuanLyThuVien\ThuVien\obj\Debug\ThuVien.Manage.resources
+C:\Users\Lenovo\Downloads\XDHTTTQL final\QuanLyThuVien\ThuVien\obj\Debug\ThuVien.Properties.Resources.resources
+C:\Users\Lenovo\Downloads\XDHTTTQL final\QuanLyThuVien\ThuVien\obj\Debug\ThuVien.csproj.GenerateResource.cache
+C:\Users\Lenovo\Downloads\XDHTTTQL final\QuanLyThuVien\ThuVien\obj\Debug\ThuVien.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\XDHTTTQL final\QuanLyThuVien\ThuVien\obj\Debug\ThuVien.csproj.CopyComplete
+C:\Users\Lenovo\Downloads\XDHTTTQL final\QuanLyThuVien\ThuVien\obj\Debug\ThuVien.exe
+C:\Users\Lenovo\Downloads\XDHTTTQL final\QuanLyThuVien\ThuVien\obj\Debug\ThuVien.pdb
+C:\Users\Lenovo\Downloads\XDHTTTQL final\QuanLyThuVien - Copy\ThuVien\bin\Debug\ThuVien.exe.config
+C:\Users\Lenovo\Downloads\XDHTTTQL final\QuanLyThuVien - Copy\ThuVien\bin\Debug\ThuVien.exe
+C:\Users\Lenovo\Downloads\XDHTTTQL final\QuanLyThuVien - Copy\ThuVien\bin\Debug\ThuVien.pdb
+C:\Users\Lenovo\Downloads\XDHTTTQL final\QuanLyThuVien - Copy\ThuVien\obj\Debug\ThuVien.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\XDHTTTQL final\QuanLyThuVien - Copy\ThuVien\obj\Debug\ThuVien.Dangmuon.resources
+C:\Users\Lenovo\Downloads\XDHTTTQL final\QuanLyThuVien - Copy\ThuVien\obj\Debug\ThuVien.Datra.resources
+C:\Users\Lenovo\Downloads\XDHTTTQL final\QuanLyThuVien - Copy\ThuVien\obj\Debug\ThuVien.DocGia.resources
+C:\Users\Lenovo\Downloads\XDHTTTQL final\QuanLyThuVien - Copy\ThuVien\obj\Debug\ThuVien.FormDangNhap.resources
+C:\Users\Lenovo\Downloads\XDHTTTQL final\QuanLyThuVien - Copy\ThuVien\obj\Debug\ThuVien.FormDangKy.resources
+C:\Users\Lenovo\Downloads\XDHTTTQL final\QuanLyThuVien - Copy\ThuVien\obj\Debug\ThuVien.FormPhieuTra.resources
+C:\Users\Lenovo\Downloads\XDHTTTQL final\QuanLyThuVien - Copy\ThuVien\obj\Debug\ThuVien.FormQLPhieuMuon.resources
+C:\Users\Lenovo\Downloads\XDHTTTQL final\QuanLyThuVien - Copy\ThuVien\obj\Debug\ThuVien.FormSach.resources
+C:\Users\Lenovo\Downloads\XDHTTTQL final\QuanLyThuVien - Copy\ThuVien\obj\Debug\ThuVien.FormTaiKhoan.resources
+C:\Users\Lenovo\Downloads\XDHTTTQL final\QuanLyThuVien - Copy\ThuVien\obj\Debug\ThuVien.Manage.resources
+C:\Users\Lenovo\Downloads\XDHTTTQL final\QuanLyThuVien - Copy\ThuVien\obj\Debug\ThuVien.Properties.Resources.resources
+C:\Users\Lenovo\Downloads\XDHTTTQL final\QuanLyThuVien - Copy\ThuVien\obj\Debug\ThuVien.csproj.GenerateResource.cache
+C:\Users\Lenovo\Downloads\XDHTTTQL final\QuanLyThuVien - Copy\ThuVien\obj\Debug\ThuVien.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\XDHTTTQL final\QuanLyThuVien - Copy\ThuVien\obj\Debug\ThuVien.csproj.CopyComplete
+C:\Users\Lenovo\Downloads\XDHTTTQL final\QuanLyThuVien - Copy\ThuVien\obj\Debug\ThuVien.exe
+C:\Users\Lenovo\Downloads\XDHTTTQL final\QuanLyThuVien - Copy\ThuVien\obj\Debug\ThuVien.pdb
+C:\Users\Lenovo\Desktop\GTS\7 - HK 2 2023 - 2024 4rd Year\XDHTTTQL\CuoiKy\QuanLyThuVien\ThuVien\bin\Debug\ThuVien.exe.config
+C:\Users\Lenovo\Desktop\GTS\7 - HK 2 2023 - 2024 4rd Year\XDHTTTQL\CuoiKy\QuanLyThuVien\ThuVien\bin\Debug\ThuVien.exe
+C:\Users\Lenovo\Desktop\GTS\7 - HK 2 2023 - 2024 4rd Year\XDHTTTQL\CuoiKy\QuanLyThuVien\ThuVien\bin\Debug\ThuVien.pdb
+C:\Users\Lenovo\Desktop\GTS\7 - HK 2 2023 - 2024 4rd Year\XDHTTTQL\CuoiKy\QuanLyThuVien\ThuVien\obj\Debug\ThuVien.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\GTS\7 - HK 2 2023 - 2024 4rd Year\XDHTTTQL\CuoiKy\QuanLyThuVien\ThuVien\obj\Debug\ThuVien.Dangmuon.resources
+C:\Users\Lenovo\Desktop\GTS\7 - HK 2 2023 - 2024 4rd Year\XDHTTTQL\CuoiKy\QuanLyThuVien\ThuVien\obj\Debug\ThuVien.Datra.resources
+C:\Users\Lenovo\Desktop\GTS\7 - HK 2 2023 - 2024 4rd Year\XDHTTTQL\CuoiKy\QuanLyThuVien\ThuVien\obj\Debug\ThuVien.DocGia.resources
+C:\Users\Lenovo\Desktop\GTS\7 - HK 2 2023 - 2024 4rd Year\XDHTTTQL\CuoiKy\QuanLyThuVien\ThuVien\obj\Debug\ThuVien.FormDangNhap.resources
+C:\Users\Lenovo\Desktop\GTS\7 - HK 2 2023 - 2024 4rd Year\XDHTTTQL\CuoiKy\QuanLyThuVien\ThuVien\obj\Debug\ThuVien.FormDangKy.resources
+C:\Users\Lenovo\Desktop\GTS\7 - HK 2 2023 - 2024 4rd Year\XDHTTTQL\CuoiKy\QuanLyThuVien\ThuVien\obj\Debug\ThuVien.FormPhieuTra.resources
+C:\Users\Lenovo\Desktop\GTS\7 - HK 2 2023 - 2024 4rd Year\XDHTTTQL\CuoiKy\QuanLyThuVien\ThuVien\obj\Debug\ThuVien.FormQLPhieuMuon.resources
+C:\Users\Lenovo\Desktop\GTS\7 - HK 2 2023 - 2024 4rd Year\XDHTTTQL\CuoiKy\QuanLyThuVien\ThuVien\obj\Debug\ThuVien.FormSach.resources
+C:\Users\Lenovo\Desktop\GTS\7 - HK 2 2023 - 2024 4rd Year\XDHTTTQL\CuoiKy\QuanLyThuVien\ThuVien\obj\Debug\ThuVien.FormTaiKhoan.resources
+C:\Users\Lenovo\Desktop\GTS\7 - HK 2 2023 - 2024 4rd Year\XDHTTTQL\CuoiKy\QuanLyThuVien\ThuVien\obj\Debug\ThuVien.Manage.resources
+C:\Users\Lenovo\Desktop\GTS\7 - HK 2 2023 - 2024 4rd Year\XDHTTTQL\CuoiKy\QuanLyThuVien\ThuVien\obj\Debug\ThuVien.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\GTS\7 - HK 2 2023 - 2024 4rd Year\XDHTTTQL\CuoiKy\QuanLyThuVien\ThuVien\obj\Debug\ThuVien.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\GTS\7 - HK 2 2023 - 2024 4rd Year\XDHTTTQL\CuoiKy\QuanLyThuVien\ThuVien\obj\Debug\ThuVien.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\GTS\7 - HK 2 2023 - 2024 4rd Year\XDHTTTQL\CuoiKy\QuanLyThuVien\ThuVien\obj\Debug\ThuVien.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\GTS\7 - HK 2 2023 - 2024 4rd Year\XDHTTTQL\CuoiKy\QuanLyThuVien\ThuVien\obj\Debug\ThuVien.exe
+C:\Users\Lenovo\Desktop\GTS\7 - HK 2 2023 - 2024 4rd Year\XDHTTTQL\CuoiKy\QuanLyThuVien\ThuVien\obj\Debug\ThuVien.pdb
